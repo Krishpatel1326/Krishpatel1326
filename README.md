@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Krish Patel 👋
 
-<!--
-**Krishpatel1326/Krishpatel1326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Aspiring Data Analyst
+- Skilled in Python, SQL, Power BI, Excel
+- Interested in AI, Data Analytics, and Solar Innovation
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Sales Performance Analysis with Python
+Performed exploratory data analysis on 9,800+ retail orders using Pandas and Seaborn.
+
+### E-Commerce Sales Analytics Dashboard
+Built an end-to-end analytics project using SQL, Python, and Power BI.
+
+### SolarFix
+Fault Detection and Self-Repairing Solar Panel System.
+
+### SolarCare
+AI-Driven Predictive Maintenance App for Rooftop Solar Systems.
+
+## Connect With Me
+- LinkedIn: Add your LinkedIn URL here
+- Email: your-email@example.com
